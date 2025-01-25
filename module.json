@@ -1,0 +1,40 @@
+{
+    "id": "activitiesextended",
+    "title": "Activities Extended",
+    "version": "0.1",
+    "description": "Extends the activities and effects system from the dnd5e system.",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12.331"
+    },
+    "esmodules": [],
+    "scripts": [],
+    "styles": [],
+    "relationships": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "system": [
+        "dnd5e"
+    ],
+    "authors": [
+        {
+            "name": "cAPKck",
+            "email": "cAPKck@profil6.com",
+            "discord": "capkck"
+        }
+    ],
+    "url": "github.com/cAPKck/activitiesextended",
+    "manifest": "github.com/cAPKck/activitiesextended/blob/main/module.json",
+    "download": "github.com/cAPKck/activitiesextended/releases/download/v0.1/activitiesextended.zip",
+    "license": "LICENSE",
+    "readme": "README.md",
+    "bugs": "github.com/cAPKck/activitiesextended/issues",
+    "changelog": "github.com/cAPKck/activitiesextended/releases",
+    "library": false,
+    "media": []
+}

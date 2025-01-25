@@ -12,10 +12,12 @@ If you have any questions and/or requests, feel free to comment.
 
 ### Activities
 
-- [ ] Spell Slots as "Consumable resource"
-- [ ] Manipulate resources as action
-- [ ] Change token as action
+- [ ] Change token properties as action
 
 # Effects
 
 - [ ] Add/remove features (items) with adding/removing effects
+
+## Other TODO
+
+- [ ] Add packs for my content
