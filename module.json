@@ -29,9 +29,6 @@
             "path": "lang/en.json"
         }
     ],
-    "system": [
-        "dnd5e"
-    ],
     "authors": [
         {
             "name": "cAPKck",
