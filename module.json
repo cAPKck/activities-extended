@@ -1,5 +1,5 @@
 {
-    "name": "activitiesextended",
+    "id": "activitiesextended",
     "title": "Activities Extended",
     "version": "0.2",
     "description": "Extends the activities and effects system from the dnd5e system.",
@@ -39,13 +39,13 @@
             "discord": "capkck"
         }
     ],
-    "url": "https://github.com/cAPKck/activitiesextended",
-    "manifest": "https://raw.githubusercontent.com/cAPKck/activitiesextended/main/module.json",
-    "download": "https://github.com/cAPKck/activitiesextended/archive/main.zip",
+    "url": "https://github.com/cAPKck/activities-extended",
+    "manifest": "https://raw.githubusercontent.com/cAPKck/activities-extended/main/module.json",
+    "download": "https://github.com/cAPKck/activities-extended/archive/main.zip",
     "license": "LICENSE",
     "readme": "README.md",
-    "bugs": "https://github.com/cAPKck/activitiesextended/issues",
-    "changelog": "https://github.com/cAPKck/activitiesextended/releases",
+    "bugs": "https://github.com/cAPKck/activities-extended/issues",
+    "changelog": "https://github.com/cAPKck/activities-extended/releases",
     "library": false,
     "media": []
 }
