@@ -1,14 +1,14 @@
 {
     "id": "activitiesextended",
     "title": "Activities Extended",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Extends the activities and effects system from the dnd5e system.",
     "compatibility": {
         "minimum": "12",
         "verified": "12.331"
     },
     "esmodules": [],
-    "scripts": ["scripts/core.js"],
+    "scripts": ["scripts/core.mjs"],
     "styles": [],
     "relationships": [],
     "languages": [

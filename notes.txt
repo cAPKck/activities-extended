@@ -1,0 +1,5 @@
+Auto Add Effects
+
+1. Hook into Activity Application to add a button
+2. Add data to the activity object to contain info about auto apply
+3. On activation, automatically apply effect to item owning actor
