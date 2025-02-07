@@ -7,8 +7,8 @@
         "minimum": "12",
         "verified": "12.331"
     },
-    "esmodules": [],
-    "scripts": ["scripts/core.mjs"],
+    "esmodules": ["scripts/core.mjs"],
+    "scripts": [],
     "styles": [],
     "relationships": {
         "systems": [
@@ -29,6 +29,9 @@
             "path": "lang/en.json"
         }
     ],
+    "system": [
+        "dnd5e"
+    ],
     "authors": [
         {
             "name": "cAPKck",
@@ -43,6 +46,5 @@
     "readme": "README.md",
     "bugs": "https://github.com/cAPKck/activities-extended/issues",
     "changelog": "https://github.com/cAPKck/activities-extended/releases",
-    "library": false,
-    "media": []
+    "library": false
 }
