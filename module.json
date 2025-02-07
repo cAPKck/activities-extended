@@ -10,7 +10,18 @@
     "esmodules": [],
     "scripts": ["scripts/core.mjs"],
     "styles": [],
-    "relationships": [],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "4.0.0",
+                    "verified": "4.2.2"
+                }
+            }
+        ]
+    },
     "languages": [
         {
             "lang": "en",
@@ -28,13 +39,13 @@
             "discord": "capkck"
         }
     ],
-    "url": "github.com/cAPKck/activitiesextended",
-    "manifest": "github.com/cAPKck/activitiesextended/blob/main/module.json",
-    "download": "github.com/cAPKck/activitiesextended/releases/download/v0.1/activitiesextended.zip",
+    "url": "https://github.com/cAPKck/activitiesextended",
+    "manifest": "https://raw.githubusercontent.com/cAPKck/activitiesextended/main/module.json",
+    "download": "https://github.com/cAPKck/activitiesextended/archive/main.zip",
     "license": "LICENSE",
     "readme": "README.md",
-    "bugs": "github.com/cAPKck/activitiesextended/issues",
-    "changelog": "github.com/cAPKck/activitiesextended/releases",
+    "bugs": "https://github.com/cAPKck/activitiesextended/issues",
+    "changelog": "https://github.com/cAPKck/activitiesextended/releases",
     "library": false,
     "media": []
 }
