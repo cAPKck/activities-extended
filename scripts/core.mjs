@@ -70,4 +70,6 @@ Hooks.on("dnd5e.postUseActivity", (activity, usageConfig, results) => {
 
 });
 
+// TODO: Remove effect from chat message when applied to self
+
 // TODO: localize
