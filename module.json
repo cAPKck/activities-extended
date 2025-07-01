@@ -1,14 +1,13 @@
 {
-    "id": "activities-extended",
-    "title": "Activities Extended",
-    "version": "0.2",
+    "id": "activities-extended-5e",
+    "title": "Activities Extended D&D 5e",
+    "version": "0.3.0",
     "description": "Extends the activities and effects system from the dnd5e system.",
     "compatibility": {
-        "minimum": "12",
-        "verified": "12.331"
+        "minimum": "13",
+        "verified": "13.345"
     },
     "esmodules": ["scripts/core.mjs"],
-    "scripts": [],
     "styles": [],
     "relationships": {
         "systems": [
@@ -16,8 +15,8 @@
                 "id": "dnd5e",
                 "type": "system",
                 "compatibility": {
-                    "minimum": "4.0.0",
-                    "verified": "4.2.2"
+                    "minimum": "5.0.0",
+                    "verified": "5.0.4"
                 }
             }
         ]
@@ -36,12 +35,12 @@
             "discord": "capkck"
         }
     ],
-    "url": "https://github.com/cAPKck/activities-extended",
-    "manifest": "https://raw.githubusercontent.com/cAPKck/activities-extended/main/module.json",
-    "download": "https://github.com/cAPKck/activities-extended/archive/main.zip",
+    "url": "https://github.com/cAPKck/activities-extended-5e",
+    "manifest": "https://github.com/cAPKck/activities-extended-5e/releases/latest/download/module.json",
+    "download": "https://github.com/cAPKck/activities-extended-5e/releases/download/release-0.3.0/module.zip",
     "license": "LICENSE",
     "readme": "README.md",
-    "bugs": "https://github.com/cAPKck/activities-extended/issues",
-    "changelog": "https://github.com/cAPKck/activities-extended/releases",
+    "bugs": "https://github.com/cAPKck/activities-extended-5e/issues",
+    "changelog": "https://github.com/cAPKck/activities-extended-5e/releases",
     "library": false
 }
